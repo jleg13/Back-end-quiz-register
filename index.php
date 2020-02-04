@@ -2,7 +2,6 @@
 /*
 COSC260 2019: Assignment 3
 Author: Joshua Le Gresley (jlegresl@une.edu.au)
-ID: 220197638
  */
 
 header('Access-Control-Allow-Origin: *');
