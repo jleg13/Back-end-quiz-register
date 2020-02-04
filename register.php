@@ -5,10 +5,13 @@ Author: Joshua Le Gresley (jlegresl@une.edu.au)
 ID: 220197638
  */
 
-require_once __DIR__ . '/class/Database.php';
+header('Access-Control-Allow-Origin: *');
 
 header('Content-Type: application/json; charset=utf-8');
-header('Access-Control-Allow-Origin: *');
+
+require_once __DIR__ . '/class/Database.php';
+
+
 
 $responses = [
     400 => "Bad Request",
