@@ -11,9 +11,9 @@ Currently deployed at on a test site to showcase project at [jlg-fullstack-proje
 
 ## Built With
 
-* [PHP](https://www.php.net/) - Programming language
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
 
 ## Authors
 
